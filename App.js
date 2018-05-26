@@ -94,7 +94,7 @@ export default class App extends Component {
               </MapView>
         </View>
         <View style={styles.contFooter}>
-           <Text style={styles.textFooter}> http://www.rey1024.com </Text>
+           <Text style={styles.textFooter}> aryahermawan9749@gmail.com </Text>
         </View>
       </View>
     );
@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
       flex : 1
   },
   contHeader: {
-    backgroundColor: 'green',
+    backgroundColor: 'black',
     alignItems: 'center',
     justifyContent: 'center',
     flex: 1,
@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   contFooter: {
-    backgroundColor: 'green',
+    backgroundColor: 'black',
     alignItems: 'center',
     justifyContent: 'center',
     flex: 1,
